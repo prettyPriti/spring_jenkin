@@ -18,6 +18,8 @@ class SpringbbootJenkinApplicationTests {
 	void contextLoads()
 	{
 		logger.info("Test case executing...");
+		logger.info("Test1 gggghjkjg case executing...");
+
 		assertEquals(true,true);
 	}
 
